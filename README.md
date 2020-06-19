@@ -1,5 +1,5 @@
 
-# Simple CDK Prokect to create a VPC
+# Simple CDK Project to create a VPC
 
 Create your VPC in few simple steps.
 
